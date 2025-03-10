@@ -1,0 +1,12 @@
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\bin\Debug\net8.0\EShop.Application.deps.json
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\bin\Debug\net8.0\EShop.Application.dll
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\bin\Debug\net8.0\EShop.Application.pdb
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\EShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\EShop.Application.AssemblyInfoInputs.cache
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\EShop.Application.AssemblyInfo.cs
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\EShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\EShop.Application.sourcelink.json
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\EShop.Application.dll
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\refint\EShop.Application.dll
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\EShop.Application.pdb
+C:\Users\s-A301-26\Source\Repos\PP4\EShopService\EShop.Application\obj\Debug\net8.0\ref\EShop.Application.dll
